@@ -1,3 +1,3 @@
 # launch-console
-#examples
-#new things
+examples
+new things
